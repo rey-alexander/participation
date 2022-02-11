@@ -19,7 +19,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Aakash Was Here!"
+        android:text="Aakash Was Here! lol"
         tools:layout_editor_absoluteX="174dp"
         tools:layout_editor_absoluteY="446dp" />
 
